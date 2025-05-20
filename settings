@@ -1,0 +1,2 @@
+enable_service flat_plugin
+FLAT_PLUGIN_DIR=$DEST/flat_horizon_plugin
